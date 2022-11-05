@@ -1,0 +1,23 @@
+
+body {
+    text-align: center;
+}
+td {
+
+    background-color:rgb(137, 186, 188);
+}
+
+
+img {
+ display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30% ;
+
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    width:1350px;
+}
